@@ -1,7 +1,8 @@
 # streamlitapp
 📊 Streamlit Data Analysis App
 
-This Streamlit application provides an easy-to-use interface for uploading, exploring, summarizing, and visualizing your data. It's designed to help users quickly understand their dataset and generate insightful reports with minimal effort. I am adding the  link of the site for better understandin: http://localhost:8501/
+This Streamlit application provides an easy-to-use interface for uploading, exploring, summarizing, and visualizing your data. It's designed to help users quickly understand their dataset and generate insightful reports with minimal effort. I am adding the  link of the site for better understandin: http://192.168.2.45:8501
+
 
 🔹 Key Features:
 
